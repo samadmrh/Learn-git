@@ -1,6 +1,5 @@
-# learn about git and github
-follow for more
+# Learn about Git and GitHub
+Follow for more
 
-''' javascript
-consol.long('hello word');
-'''
+```javascript
+console.log('hello world');
